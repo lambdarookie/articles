@@ -8,10 +8,13 @@
 `#guerrillablogging`<br>
 `#jekyllistoomuchoverhead`
 
+![JavaRookie's Blog](duke.png)
+
+## Articles
+
 + 10 February 2018 - [Hello, world.](#hello-world)
 + 11 February 2018 - [The Ultimate Java Access Modifiers Table](#the-ultimate-java-access-modifiers-table)
 
-[Imprint](#)
 
 ## Hello, world.
 > 10 February 2018<br>
