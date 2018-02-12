@@ -19,7 +19,7 @@
 
 Hello, world. My name is Lucas. Even though I programmed in Java for quite some time now, I still feel like a rookie. There is just so much to learn about the Java language and its ecosystem! And because I like to share what I learn, I eventually decided to create this blog. I hope you will enjoy the content that I will upload. If you would like to receive updates about new articles, just follow [@javarookie](https://twitter.com/javarookie/) on Twitter. Also, feedback is very welcome!
 
-Who am I? At the time of this writing, I am a 26-years-old Java enthusiast living in Frankfurt am Main. In case you want to check out what else I am up to, I usually go by the user name [@lambdarookie](https://keybase.io/lambdarookie/) on the internet. (Yes, I am also a big fan of functional programming.) I have a bachelor's degree in philosophy and computer science from Technische Universität Darmstadt. Currently, I study philosophy at Goethe Universität Frankfurt. Whenever I find time, though, I try to do some programming.
+Who am I? At the time of this writing, I am a 26-year-old Java enthusiast living in Frankfurt am Main. In case you want to check out what else I am up to, I usually go by the user name [@lambdarookie](https://keybase.io/lambdarookie/) on the internet. (Yes, I am also a big fan of functional programming.) I have a bachelor's degree in philosophy and computer science from Technische Universität Darmstadt. Currently, I study philosophy at Goethe Universität Frankfurt. Whenever I find time, though, I try to do some programming.
 
 ## The Ultimate Java Access Modifiers Table
 > 11 February 2018<br>
