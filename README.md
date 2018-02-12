@@ -5,9 +5,6 @@
 [javarookie.com](http://javarookie.com/)<br>
 [@javarookie](https://twitter.com/javarookie/)
 
-`#guerrillablogging`<br>
-`#jekyllistoomuchoverhead`
-
 ![JavaRookie's Blog](duke.png)
 
 ## Articles
