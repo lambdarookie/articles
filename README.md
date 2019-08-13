@@ -2,7 +2,7 @@
 
 **A loose collection of articles I have written**
 
-![Java Duke](duke.png)
+![Java Duke](https://32jn1p2jfust2jm6d92xtg5d-wpengine.netdna-ssl.com/wp-content/uploads/2017/07/duke_baker.png)
 
 ---
 
