@@ -1,4 +1,4 @@
-# articles
+# programming-articles
 
 **A loose collection of articles I have written**
 
@@ -6,7 +6,7 @@
 
 ---
 
-* **articles** has been created by Lucas Baerenfaenger ([@lambdarookie](https://github.com/lambdarookie), [lambdarookie.com](https://lambdarookie.com)).
+* **programming-articles** has been created by Lucas Baerenfaenger ([@lambdarookie](https://github.com/lambdarookie), [lambdarookie.com](https://lambdarookie.com)).
 * It is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
 ---
